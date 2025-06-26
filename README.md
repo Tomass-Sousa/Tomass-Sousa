@@ -2,9 +2,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/tomass-sousa/Cyberia-Trading-Indicator)
 ![License](https://img.shields.io/badge/license-MIT-blueviolet)
 ![Powered by Node.js](https://img.shields.io/badge/Powered%20by-Node.js-339933?logo=node.js&style=flat-square)
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomass-sousa&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomass-sousa&layout=compact)
 
