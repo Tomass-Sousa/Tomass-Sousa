@@ -3,3 +3,4 @@
 ![GitHub stars](https://img.shields.io/github/stars/tomass-sousa/Cyberia-Trading-Indicator?style=social)
 ![First commit](https://img.shields.io/badge/first_commit-made-brightgreen)
 ![License](https://img.shields.io/github/license/tomass-sousa/Cyberia-Trading-Indicator)
+![Build Status](https://github.com/tomass-sousa/Cyberia-Trading-Indicator/actions/workflows/main.yml/badge.svg)
