@@ -1,5 +1,5 @@
 ![Profile Badge](https://img.shields.io/badge/Profile-Active-green)
 ![GitHub followers](https://img.shields.io/github/followers/tomass-sousa?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/tomass-sousa/tonrepo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/tomass-sousa/Cyberia-Trading-Indicator?style=social)
 ![First commit](https://img.shields.io/badge/first_commit-made-brightgreen)
-![License](https://img.shields.io/github/license/tonusername/tonrepo)
+![License](https://img.shields.io/github/license/tomass-sousa/Cyberia-Trading-Indicator)
