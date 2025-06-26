@@ -1,6 +1,6 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomass-sousa&layout=compact)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomass-sousa&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomass-sousa&layout=compact)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](https://linkedin.com/in/tomass-sousa)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=social)](https://instagram.com/tomass.sousa)
