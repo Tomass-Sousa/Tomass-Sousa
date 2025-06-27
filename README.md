@@ -1,5 +1,3 @@
-**Apprenti Technicien CAO chez ArcelorMittal Research | BUT GMP**
-
 ![Profile Badge](https://img.shields.io/badge/Profile-Active-green)
 ![Last Commit](https://img.shields.io/github/last-commit/tomass-sousa/Cyberia-Trading-Indicator)
 ![License](https://img.shields.io/badge/license-MIT-blueviolet)
